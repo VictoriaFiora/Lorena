@@ -1,6 +1,0 @@
-pandas
-gspread
-google-auth
-requests
-python-dotenv
-gspread-formatting
